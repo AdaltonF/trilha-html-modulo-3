@@ -3,7 +3,7 @@
 **Título:** Recriando Wikipedia, com um layout melhor :)
 
 Foi feito uma versão adaptada da Wikipedia, com a criação de 3 artigos sobre a trilogia de livros *The Hunger Games*. Foi dada atenção a alguns aspectos de acessibilidade
-ensinados ao longo dos cursos
+ensinados ao longo dos cursos.
 
 ## Objetivo
 Este desafio consiste em treinar você com relação a estrutura do site, e também aplicar conhecimentos adiquiridos sobre semântica e acessibilidade.
